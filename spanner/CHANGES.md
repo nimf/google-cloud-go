@@ -1,5 +1,13 @@
 # Changes
 
+## [1.59.0](https://github.com/googleapis/google-cloud-go/compare/spanner/v1.58.0...spanner/v1.59.0) (2024-03-11)
+
+
+### Features
+
+* **spanner/spansql:** Support Table rename & Table synonym ([#9275](https://github.com/googleapis/google-cloud-go/issues/9275)) ([9b97ce7](https://github.com/googleapis/google-cloud-go/commit/9b97ce75d36980fdaa06f15b0398b7b65e0d6082))
+* **spanner:** Add support of float32 type ([#9525](https://github.com/googleapis/google-cloud-go/issues/9525)) ([87d7ea9](https://github.com/googleapis/google-cloud-go/commit/87d7ea97787a56b18506b53e9b26d037f92759ca))
+
 ## [1.58.0](https://github.com/googleapis/google-cloud-go/compare/spanner/v1.57.0...spanner/v1.58.0) (2024-03-06)
 
 
