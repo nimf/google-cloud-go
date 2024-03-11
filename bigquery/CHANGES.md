@@ -3,6 +3,20 @@
 
 
 
+## [1.60.0](https://github.com/googleapis/google-cloud-go/compare/bigquery/v1.59.1...bigquery/v1.60.0) (2024-03-11)
+
+
+### Features
+
+* **bigquery/datatransfer:** Add UnenrollDataSources API which gives users a programmatic way to unenroll data sources ([a86aa8e](https://github.com/googleapis/google-cloud-go/commit/a86aa8e962b77d152ee6cdd433ad94967150ef21))
+* **bigquery/storage:** Add the RANGE type to the google.cloud.bigquery.storage.v1.TableFieldSchema ([0195fe9](https://github.com/googleapis/google-cloud-go/commit/0195fe9292274ff9d86c71079a8e96ed2e5f9331))
+
+
+### Documentation
+
+* **bigquery/datatransfer:** Update unenrollDataSources API documentation ([#9449](https://github.com/googleapis/google-cloud-go/issues/9449)) ([da644cc](https://github.com/googleapis/google-cloud-go/commit/da644ccc6f154d41b8bedf21f4c4cc8aa9ce41bf))
+* **bigquery/storage:** Mark BigQueryWrite v1beta2 as deprecated ([d130d86](https://github.com/googleapis/google-cloud-go/commit/d130d861f55d137a2803340c2e11da3589669cb8))
+
 ## [1.59.1](https://github.com/googleapis/google-cloud-go/compare/bigquery/v1.59.0...bigquery/v1.59.1) (2024-02-12)
 
 
