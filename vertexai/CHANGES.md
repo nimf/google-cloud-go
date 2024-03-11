@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.8.0](https://github.com/googleapis/google-cloud-go/compare/vertexai/v0.7.1...vertexai/v0.8.0) (2024-03-11)
+
+
+### Features
+
+* **vertexai/genai:** Change TopK to int ([#9522](https://github.com/googleapis/google-cloud-go/issues/9522)) ([29d2c7d](https://github.com/googleapis/google-cloud-go/commit/29d2c7d0be85f0055f4992dc01897782b8a51bcb))
+
+
+### Bug Fixes
+
+* **vertexai:** Clarify Client.GenerativeModel documentation ([#9533](https://github.com/googleapis/google-cloud-go/issues/9533)) ([511d9b2](https://github.com/googleapis/google-cloud-go/commit/511d9b2d7055a2711b3976c319e98d7aec31121f))
+* **vertexai:** Clarify documentation of NewClient ([#9532](https://github.com/googleapis/google-cloud-go/issues/9532)) ([f1bca4c](https://github.com/googleapis/google-cloud-go/commit/f1bca4cde57239cd3c606a1566e83a7d7f5e7953))
+
 ## [0.7.1](https://github.com/googleapis/google-cloud-go/compare/vertexai/v0.7.0...vertexai/v0.7.1) (2024-02-08)
 
 
